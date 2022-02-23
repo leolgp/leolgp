@@ -10,13 +10,14 @@
 </div>
  
  <br>
+  <p>
   **Sobre o Leo:
 Desenvolvedor Front End Jr em processo de transição de carreira.
 Busco minha primeira oportunidade nesta área.
 Engenheiro de produção, professor de inglês, trabalho voluntário (escotismo por 11 anos) e espiritualista;
 Apaixonado por viagem, acampar, moto, filosofia, idioma francês e natureza. 
 Experiências de trabalho no exterior e ter morado nos EUA e França. 
-  
+  </p>
 <div> 
   <a href="https://www.linkedin.com/in/leonardo-garcia-3236b73a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
